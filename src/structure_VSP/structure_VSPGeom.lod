@@ -1,0 +1,728 @@
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -4.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  -4.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  -4.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  -4.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  -4.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  -4.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  -4.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   1.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  -5.00000   1.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  -5.00000   1.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  -5.00000   1.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  -5.00000   1.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  -5.00000   1.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  -5.00000   1.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              1.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              1.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              1.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.1000000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.10000  -5.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.10000  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.10000  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.10000  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.10000  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.10000  -5.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   16.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  16.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  16.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  16.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  16.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  16.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  16.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   1.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  15.00000   1.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  15.00000   1.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  15.00000   1.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  15.00000   1.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  15.00000   1.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  15.00000   1.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              1.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              1.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              1.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.00100  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.1000000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+   Wing       S        Xavg      Yavg      Zavg     Chord     V/Vref      Cl        Cd        Cs        Cx        Cy       Cz        Cmx       Cmy       Cmz 
+        1   0.00000   0.21657   0.34045   0.01982   0.08399       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.33333   0.21712   0.26372   0.02034   0.08434       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   0.66667   0.21543   0.18951   0.02046   0.08368       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        1   1.00000   0.21646   0.11309   0.02073   0.08375       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.00000   0.21676  -0.34025   0.01963   0.08413       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.33333   0.21614  -0.26394   0.02012   0.08432       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   0.66667   0.21636  -0.18923   0.02033   0.08347       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        2   1.00000   0.21545  -0.11420   0.02079   0.08424       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.00000   0.56866  -0.05800  -0.00009   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.33333   0.56785  -0.04570  -0.00035   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   0.66667   0.56819  -0.03348  -0.00038   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        3   1.00000   0.56883  -0.02129  -0.00060   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.00000   0.56868   0.05795  -0.00000   0.03979       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.33333   0.56846   0.04570  -0.00010   0.03980       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   0.66667   0.56912   0.03358  -0.00041   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        4   1.00000   0.56875   0.02127  -0.00064   0.03989       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.00000   0.56804  -0.00002   0.06003   0.04018       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.33333   0.56814  -0.00003   0.04769   0.04003       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   0.66667   0.56866  -0.00011   0.03554   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+        5   1.00000   0.56831  -0.00004   0.02338   0.03991       nan -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+
+Comp      Component-Name                             Mach       AoA      Beta       CL        CDi       CS       CFx       CFy       CFz       Cmx       Cmy       Cmz 
+0         VSPGEOM_VSPGeom                            0.10000  15.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000   0.00000 -nan(ind)       nan -nan(ind) 
+1         VSPGEOM_VSPGeom                            0.10000  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+2         VSPGEOM_VSPGeom                            0.10000  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+3         VSPGEOM_VSPGeom                            0.10000  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+4         VSPGEOM_VSPGeom                            0.10000  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+5         VSPGEOM_VSPGeom                            0.10000  15.00000   0.00000 -nan(ind)       nan -nan(ind)       nan -nan(ind) -nan(ind) -nan(ind)       nan -nan(ind) 
+
+
+

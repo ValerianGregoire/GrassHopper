@@ -1,0 +1,1703 @@
+2 0.000000 100.000000 5791.461216
+914 787 
+1 -3.858254 0.000000 -3.862310 -nan(ind) nan -nan(ind) -nan(ind) 
+2 4.417969 0.000000 -3.862310 -nan(ind) nan -nan(ind) -nan(ind) 
+3 4.417969 0.000000 3.883969 -nan(ind) nan -nan(ind) -nan(ind) 
+4 -3.858254 0.000000 3.883969 -nan(ind) nan -nan(ind) -nan(ind) 
+5 0.279857 0.000000 0.010829 nan nan nan nan 
+6 -3.858254 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+7 0.279857 0.000000 -3.862310 -nan(ind) nan -nan(ind) -nan(ind) 
+8 4.417969 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+9 0.279857 0.000000 3.883969 -nan(ind) nan -nan(ind) -nan(ind) 
+10 2.348913 0.000000 -1.925740 -nan(ind) nan -nan(ind) -nan(ind) 
+11 0.279857 0.000000 -1.925740 -nan(ind) nan -nan(ind) -nan(ind) 
+12 2.348913 0.000000 -3.862310 -nan(ind) nan -nan(ind) -nan(ind) 
+13 4.417969 0.000000 -1.925740 -nan(ind) nan -nan(ind) -nan(ind) 
+14 2.348913 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+15 -1.789199 0.000000 -1.925740 -nan(ind) nan -nan(ind) -nan(ind) 
+16 -3.858254 0.000000 -1.925740 -nan(ind) nan -nan(ind) -nan(ind) 
+17 -1.789199 0.000000 -3.862310 -nan(ind) nan -nan(ind) -nan(ind) 
+18 -1.789199 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+19 2.348913 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+20 0.279857 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+21 4.417969 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+22 2.348913 0.000000 3.883969 -nan(ind) nan -nan(ind) -nan(ind) 
+23 1.314385 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+24 0.279857 0.000000 -0.957455 nan -nan(ind) nan nan 
+25 1.314385 0.000000 -1.925740 -nan(ind) nan -nan(ind) -nan(ind) 
+26 2.348913 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+27 1.314385 0.000000 0.010829 nan -nan(ind) nan nan 
+28 -1.789199 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+29 -3.858254 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+30 -1.789199 0.000000 3.883969 -nan(ind) nan -nan(ind) -nan(ind) 
+31 -0.754671 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+32 -1.789199 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+33 -0.754671 0.000000 -1.925740 -nan(ind) nan -nan(ind) -nan(ind) 
+34 -0.754671 0.000000 0.010829 nan -nan(ind) nan nan 
+35 1.314385 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+36 0.279857 0.000000 0.979114 nan -nan(ind) nan nan 
+37 2.348913 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+38 1.314385 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+39 0.797121 0.000000 -0.473313 nan -nan(ind) nan nan 
+40 0.279857 0.000000 -0.473313 nan -nan(ind) nan nan 
+41 0.797121 0.000000 -0.957455 nan -nan(ind) nan nan 
+42 1.314385 0.000000 -0.473313 nan -nan(ind) nan nan 
+43 0.797121 0.000000 0.010829 nan -nan(ind) nan nan 
+44 -0.754671 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+45 -1.789199 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+46 -0.754671 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+47 -0.237407 0.000000 -0.473313 nan -nan(ind) nan nan 
+48 -0.754671 0.000000 -0.473313 nan -nan(ind) nan nan 
+49 -0.237407 0.000000 -0.957455 nan -nan(ind) nan nan 
+50 -0.237407 0.000000 0.010829 nan -nan(ind) nan nan 
+51 0.797121 0.000000 0.494972 nan -nan(ind) nan nan 
+52 0.279857 0.000000 0.494972 nan -nan(ind) nan nan 
+53 1.314385 0.000000 0.494972 nan -nan(ind) nan nan 
+54 0.797121 0.000000 0.979114 nan -nan(ind) nan nan 
+55 0.538489 0.000000 -0.231242 nan -nan(ind) nan nan 
+56 0.279857 0.000000 -0.231242 nan -nan(ind) nan nan 
+57 0.538489 0.000000 -0.473313 nan -nan(ind) nan nan 
+58 0.797121 0.000000 -0.231242 nan -nan(ind) nan nan 
+59 0.538489 0.000000 0.010829 nan nan nan nan 
+60 3.383441 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+61 3.383441 0.000000 -1.925740 -nan(ind) nan -nan(ind) -nan(ind) 
+62 4.417969 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+63 3.383441 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+64 1.831649 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+65 1.831649 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+66 2.348913 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+67 1.831649 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+68 1.055753 0.000000 -0.231242 nan -nan(ind) nan nan 
+69 1.055753 0.000000 -0.473313 nan -nan(ind) nan nan 
+70 1.314385 0.000000 -0.231242 nan -nan(ind) nan nan 
+71 1.055753 0.000000 0.010829 nan -nan(ind) nan nan 
+72 -0.237407 0.000000 0.494972 nan -nan(ind) nan nan 
+73 -0.754671 0.000000 0.494972 nan -nan(ind) nan nan 
+74 -0.237407 0.000000 0.979114 nan -nan(ind) nan nan 
+75 0.538489 0.000000 0.252901 nan -nan(ind) nan nan 
+76 0.279857 0.000000 0.252901 nan -nan(ind) nan nan 
+77 0.797121 0.000000 0.252901 nan -nan(ind) nan nan 
+78 0.538489 0.000000 0.494972 nan -nan(ind) nan nan 
+79 0.667805 0.000000 -0.110206 nan -nan(ind) nan nan 
+80 0.538489 0.000000 -0.110206 nan -nan(ind) nan nan 
+81 0.667805 0.000000 -0.231242 nan -nan(ind) nan nan 
+82 0.797121 0.000000 -0.110206 nan -nan(ind) nan nan 
+83 0.667805 0.000000 0.010829 nan -nan(ind) nan nan 
+84 0.021225 0.000000 -0.231242 nan -nan(ind) nan nan 
+85 -0.237407 0.000000 -0.231242 nan -nan(ind) nan nan 
+86 0.021225 0.000000 -0.473313 nan -nan(ind) nan nan 
+87 0.021225 0.000000 0.010829 nan -nan(ind) nan nan 
+88 0.409173 0.000000 -0.110206 nan nan nan nan 
+89 0.279857 0.000000 -0.110206 nan -nan(ind) nan nan 
+90 0.409173 0.000000 -0.231242 nan -nan(ind) nan nan 
+91 0.409173 0.000000 0.010829 nan nan nan nan 
+92 3.383441 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+93 4.417969 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+94 3.383441 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+95 1.831649 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+96 2.348913 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+97 1.831649 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+98 1.055753 0.000000 0.252901 nan -nan(ind) nan nan 
+99 1.314385 0.000000 0.252901 nan -nan(ind) nan nan 
+100 1.055753 0.000000 0.494972 nan -nan(ind) nan nan 
+101 0.667805 0.000000 0.131865 nan -nan(ind) nan nan 
+102 0.538489 0.000000 0.131865 nan -nan(ind) nan nan 
+103 0.797121 0.000000 0.131865 nan -nan(ind) nan nan 
+104 0.667805 0.000000 0.252901 nan -nan(ind) nan nan 
+105 0.603147 0.000000 -0.049688 nan -nan(ind) nan nan 
+106 0.538489 0.000000 -0.049688 nan nan nan nan 
+107 0.603147 0.000000 -0.110206 nan -nan(ind) nan nan 
+108 0.667805 0.000000 -0.049688 nan -nan(ind) nan nan 
+109 0.603147 0.000000 0.010829 nan -nan(ind) nan nan 
+110 0.021225 0.000000 0.252901 nan -nan(ind) nan nan 
+111 -0.237407 0.000000 0.252901 nan -nan(ind) nan nan 
+112 0.021225 0.000000 0.494972 nan -nan(ind) nan nan 
+113 0.409173 0.000000 0.131865 nan nan nan nan 
+114 0.279857 0.000000 0.131865 nan -nan(ind) nan nan 
+115 0.409173 0.000000 0.252901 nan -nan(ind) nan nan 
+116 0.473831 0.000000 -0.049688 nan nan nan nan 
+117 0.409173 0.000000 -0.049688 nan nan nan nan 
+118 0.473831 0.000000 -0.110206 nan nan nan nan 
+119 0.473831 0.000000 0.010829 nan nan nan nan 
+120 0.603147 0.000000 0.071347 nan -nan(ind) nan nan 
+121 0.538489 0.000000 0.071347 nan nan nan nan 
+122 0.667805 0.000000 0.071347 nan -nan(ind) nan nan 
+123 0.603147 0.000000 0.131865 nan -nan(ind) nan nan 
+124 0.570818 0.000000 -0.019430 nan nan nan nan 
+125 0.538489 0.000000 -0.019430 nan nan nan nan 
+126 0.570818 0.000000 -0.049688 nan nan nan nan 
+127 0.603147 0.000000 -0.019430 nan nan nan nan 
+128 0.570818 0.000000 0.010829 nan nan nan nan 
+129 0.926437 0.000000 -0.110206 nan -nan(ind) nan nan 
+130 0.926437 0.000000 -0.231242 nan -nan(ind) nan nan 
+131 1.055753 0.000000 -0.110206 nan -nan(ind) nan nan 
+132 0.926437 0.000000 0.010829 nan -nan(ind) nan nan 
+133 0.732463 0.000000 -0.049688 nan -nan(ind) nan nan 
+134 0.732463 0.000000 -0.110206 nan -nan(ind) nan nan 
+135 0.797121 0.000000 -0.049688 nan -nan(ind) nan nan 
+136 0.732463 0.000000 0.010829 nan -nan(ind) nan nan 
+137 0.635476 0.000000 -0.019430 nan -nan(ind) nan nan 
+138 0.635476 0.000000 -0.049688 nan -nan(ind) nan nan 
+139 0.667805 0.000000 -0.019430 nan -nan(ind) nan nan 
+140 0.635476 0.000000 0.010829 nan -nan(ind) nan nan 
+141 0.473831 0.000000 0.071347 nan nan nan nan 
+142 0.409173 0.000000 0.071347 nan nan nan nan 
+143 0.473831 0.000000 0.131865 nan nan nan nan 
+144 0.570818 0.000000 0.041088 nan nan nan nan 
+145 0.538489 0.000000 0.041088 nan nan nan nan 
+146 0.603147 0.000000 0.041088 nan -nan(ind) nan nan 
+147 0.570818 0.000000 0.071347 nan nan nan nan 
+148 0.586983 0.000000 -0.004300 nan nan nan nan 
+149 0.570818 0.000000 -0.004300 nan nan nan nan 
+150 0.586983 0.000000 -0.019430 nan nan nan nan 
+151 0.603147 0.000000 -0.004300 nan nan nan nan 
+152 0.586983 0.000000 0.010829 nan nan nan nan 
+153 0.926437 0.000000 0.131865 nan -nan(ind) nan nan 
+154 1.055753 0.000000 0.131865 nan -nan(ind) nan nan 
+155 0.926437 0.000000 0.252901 nan -nan(ind) nan nan 
+156 0.732463 0.000000 0.071347 nan -nan(ind) nan nan 
+157 0.797121 0.000000 0.071347 nan -nan(ind) nan nan 
+158 0.732463 0.000000 0.131865 nan -nan(ind) nan nan 
+159 0.635476 0.000000 0.041088 nan -nan(ind) nan nan 
+160 0.667805 0.000000 0.041088 nan -nan(ind) nan nan 
+161 0.635476 0.000000 0.071347 nan -nan(ind) nan nan 
+162 0.619312 0.000000 -0.004300 nan -nan(ind) nan nan 
+163 0.619312 0.000000 -0.019430 nan -nan(ind) nan nan 
+164 0.635476 0.000000 -0.004300 nan -nan(ind) nan nan 
+165 0.619312 0.000000 0.010829 nan -nan(ind) nan nan 
+166 0.586983 0.000000 0.025959 nan nan nan nan 
+167 0.570818 0.000000 0.025959 nan nan nan nan 
+168 0.603147 0.000000 0.025959 nan -nan(ind) nan nan 
+169 0.586983 0.000000 0.041088 nan -nan(ind) nan nan 
+170 0.595065 0.000000 0.003265 nan nan nan nan 
+171 0.586983 0.000000 0.003265 nan nan nan nan 
+172 0.595065 0.000000 -0.004300 nan nan nan nan 
+173 0.603147 0.000000 0.003265 nan nan nan nan 
+174 0.595065 0.000000 0.010829 nan nan nan nan 
+175 -2.823726 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+176 -3.858254 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+177 -2.823726 0.000000 -1.925740 -nan(ind) nan -nan(ind) -nan(ind) 
+178 -2.823726 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+179 -1.271935 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+180 -1.789199 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+181 -1.271935 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+182 -1.271935 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+183 -0.496039 0.000000 -0.231242 nan -nan(ind) nan nan 
+184 -0.754671 0.000000 -0.231242 nan -nan(ind) nan nan 
+185 -0.496039 0.000000 -0.473313 nan -nan(ind) nan nan 
+186 -0.496039 0.000000 0.010829 nan -nan(ind) nan nan 
+187 -0.108091 0.000000 -0.110206 nan -nan(ind) nan nan 
+188 -0.237407 0.000000 -0.110206 nan -nan(ind) nan nan 
+189 -0.108091 0.000000 -0.231242 nan -nan(ind) nan nan 
+190 0.021225 0.000000 -0.110206 nan -nan(ind) nan nan 
+191 -0.108091 0.000000 0.010829 nan -nan(ind) nan nan 
+192 0.150541 0.000000 -0.110206 nan -nan(ind) nan nan 
+193 0.150541 0.000000 -0.231242 nan -nan(ind) nan nan 
+194 0.150541 0.000000 0.010829 nan -nan(ind) nan nan 
+195 -2.823726 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+196 -3.858254 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+197 -2.823726 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+198 -1.271935 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+199 -1.789199 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+200 -1.271935 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+201 -0.496039 0.000000 0.252901 nan -nan(ind) nan nan 
+202 -0.754671 0.000000 0.252901 nan -nan(ind) nan nan 
+203 -0.496039 0.000000 0.494972 nan -nan(ind) nan nan 
+204 -0.108091 0.000000 0.131865 nan -nan(ind) nan nan 
+205 -0.237407 0.000000 0.131865 nan -nan(ind) nan nan 
+206 0.021225 0.000000 0.131865 nan -nan(ind) nan nan 
+207 -0.108091 0.000000 0.252901 nan -nan(ind) nan nan 
+208 -0.043433 0.000000 -0.049688 nan nan nan nan 
+209 -0.108091 0.000000 -0.049688 nan -nan(ind) nan nan 
+210 -0.043433 0.000000 -0.110206 nan -nan(ind) nan nan 
+211 0.021225 0.000000 -0.049688 nan -nan(ind) nan nan 
+212 -0.043433 0.000000 0.010829 nan nan nan nan 
+213 0.150541 0.000000 0.131865 nan -nan(ind) nan nan 
+214 0.150541 0.000000 0.252901 nan -nan(ind) nan nan 
+215 0.085883 0.000000 -0.049688 nan -nan(ind) nan nan 
+216 0.085883 0.000000 -0.110206 nan -nan(ind) nan nan 
+217 0.150541 0.000000 -0.049688 nan -nan(ind) nan nan 
+218 0.085883 0.000000 0.010829 nan -nan(ind) nan nan 
+219 -0.043433 0.000000 0.071347 nan nan nan nan 
+220 -0.108091 0.000000 0.071347 nan -nan(ind) nan nan 
+221 0.021225 0.000000 0.071347 nan nan nan nan 
+222 -0.043433 0.000000 0.131865 nan -nan(ind) nan nan 
+223 -0.011104 0.000000 -0.019430 nan -nan(ind) nan nan 
+224 -0.043433 0.000000 -0.019430 nan nan nan nan 
+225 -0.011104 0.000000 -0.049688 nan nan nan nan 
+226 0.021225 0.000000 -0.019430 nan -nan(ind) nan nan 
+227 -0.011104 0.000000 0.010829 nan -nan(ind) nan nan 
+228 0.085883 0.000000 0.071347 nan -nan(ind) nan nan 
+229 0.150541 0.000000 0.071347 nan nan nan nan 
+230 0.085883 0.000000 0.131865 nan -nan(ind) nan nan 
+231 0.053554 0.000000 -0.019430 nan -nan(ind) nan nan 
+232 0.053554 0.000000 -0.049688 nan -nan(ind) nan nan 
+233 0.085883 0.000000 -0.019430 nan -nan(ind) nan nan 
+234 0.053554 0.000000 0.010829 nan -nan(ind) nan nan 
+235 -0.011104 0.000000 0.041088 nan nan nan nan 
+236 -0.043433 0.000000 0.041088 nan nan nan nan 
+237 0.021225 0.000000 0.041088 nan -nan(ind) nan nan 
+238 -0.011104 0.000000 0.071347 nan nan nan nan 
+239 0.005061 0.000000 -0.004300 nan -nan(ind) nan nan 
+240 -0.011104 0.000000 -0.004300 nan -nan(ind) nan nan 
+241 0.005061 0.000000 -0.019430 nan -nan(ind) nan nan 
+242 0.021225 0.000000 -0.004300 nan -nan(ind) nan nan 
+243 0.005061 0.000000 0.010829 nan -nan(ind) nan nan 
+244 0.215199 0.000000 0.071347 nan nan nan nan 
+245 0.215199 0.000000 0.010829 nan nan nan nan 
+246 0.279857 0.000000 0.071347 nan nan nan nan 
+247 0.215199 0.000000 0.131865 nan -nan(ind) nan nan 
+248 0.118212 0.000000 0.041088 nan -nan(ind) nan nan 
+249 0.085883 0.000000 0.041088 nan -nan(ind) nan nan 
+250 0.118212 0.000000 0.010829 nan -nan(ind) nan nan 
+251 0.150541 0.000000 0.041088 nan -nan(ind) nan nan 
+252 0.118212 0.000000 0.071347 nan -nan(ind) nan nan 
+253 0.215199 0.000000 -0.049688 nan nan nan nan 
+254 0.215199 0.000000 -0.110206 nan -nan(ind) nan nan 
+255 0.279857 0.000000 -0.049688 nan nan nan nan 
+256 0.182870 0.000000 -0.019430 nan nan nan nan 
+257 0.150541 0.000000 -0.019430 nan -nan(ind) nan nan 
+258 0.182870 0.000000 -0.049688 nan nan nan nan 
+259 0.215199 0.000000 -0.019430 nan nan nan nan 
+260 0.182870 0.000000 0.010829 nan nan nan nan 
+261 0.344515 0.000000 -0.049688 nan nan nan nan 
+262 0.344515 0.000000 -0.110206 nan -nan(ind) nan nan 
+263 0.344515 0.000000 0.010829 nan nan nan nan 
+264 0.344515 0.000000 0.071347 nan -nan(ind) nan nan 
+265 0.344515 0.000000 0.131865 nan -nan(ind) nan nan 
+266 0.312186 0.000000 -0.019430 nan nan nan nan 
+267 0.279857 0.000000 -0.019430 nan nan nan nan 
+268 0.312186 0.000000 -0.049688 nan nan nan nan 
+269 0.344515 0.000000 -0.019430 nan nan nan nan 
+270 0.312186 0.000000 0.010829 nan nan nan nan 
+271 0.312186 0.000000 0.041088 nan nan nan nan 
+272 0.279857 0.000000 0.041088 nan -nan(ind) nan nan 
+273 0.344515 0.000000 0.041088 nan nan nan nan 
+274 0.312186 0.000000 0.071347 nan -nan(ind) nan nan 
+275 0.441502 0.000000 0.041088 nan nan nan nan 
+276 0.409173 0.000000 0.041088 nan -nan(ind) nan nan 
+277 0.441502 0.000000 0.010829 nan nan nan nan 
+278 0.473831 0.000000 0.041088 nan nan nan nan 
+279 0.441502 0.000000 0.071347 nan nan nan nan 
+280 0.182870 0.000000 0.041088 nan -nan(ind) nan nan 
+281 0.215199 0.000000 0.041088 nan nan nan nan 
+282 0.182870 0.000000 0.071347 nan nan nan nan 
+283 0.166706 0.000000 0.025959 nan -nan(ind) nan nan 
+284 0.150541 0.000000 0.025959 nan -nan(ind) nan nan 
+285 0.166706 0.000000 0.010829 nan nan nan nan 
+286 0.182870 0.000000 0.025959 nan nan nan nan 
+287 0.166706 0.000000 0.041088 nan -nan(ind) nan nan 
+288 0.247528 0.000000 0.041088 nan nan nan nan 
+289 0.247528 0.000000 0.010829 nan nan nan nan 
+290 0.247528 0.000000 0.071347 nan -nan(ind) nan nan 
+291 0.247528 0.000000 -0.019430 nan nan nan nan 
+292 0.247528 0.000000 -0.049688 nan nan nan nan 
+293 0.263693 0.000000 0.025959 nan nan nan nan 
+294 0.247528 0.000000 0.025959 nan -nan(ind) nan nan 
+295 0.263693 0.000000 0.010829 nan nan nan nan 
+296 0.279857 0.000000 0.025959 nan -nan(ind) nan nan 
+297 0.263693 0.000000 0.041088 nan -nan(ind) nan nan 
+298 0.506160 0.000000 0.041088 nan nan nan nan 
+299 0.506160 0.000000 0.010829 nan nan nan nan 
+300 0.506160 0.000000 0.071347 nan nan nan nan 
+301 1.314385 0.000000 2.915684 -nan(ind) nan -nan(ind) -nan(ind) 
+302 0.279857 0.000000 2.915684 -nan(ind) nan -nan(ind) -nan(ind) 
+303 2.348913 0.000000 2.915684 -nan(ind) nan -nan(ind) -nan(ind) 
+304 1.314385 0.000000 3.883969 -nan(ind) nan -nan(ind) -nan(ind) 
+305 0.797121 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+306 0.279857 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+307 1.314385 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+308 0.797121 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+309 0.538489 0.000000 0.737043 nan -nan(ind) nan nan 
+310 0.279857 0.000000 0.737043 nan -nan(ind) nan nan 
+311 0.797121 0.000000 0.737043 nan -nan(ind) nan nan 
+312 0.538489 0.000000 0.979114 nan -nan(ind) nan nan 
+313 0.667805 0.000000 0.373936 nan -nan(ind) nan nan 
+314 0.538489 0.000000 0.373936 nan -nan(ind) nan nan 
+315 0.797121 0.000000 0.373936 nan -nan(ind) nan nan 
+316 0.667805 0.000000 0.494972 nan -nan(ind) nan nan 
+317 0.603147 0.000000 0.192383 nan -nan(ind) nan nan 
+318 0.538489 0.000000 0.192383 nan -nan(ind) nan nan 
+319 0.667805 0.000000 0.192383 nan -nan(ind) nan nan 
+320 0.603147 0.000000 0.252901 nan -nan(ind) nan nan 
+321 0.570818 0.000000 0.101606 nan -nan(ind) nan nan 
+322 0.538489 0.000000 0.101606 nan nan nan nan 
+323 0.603147 0.000000 0.101606 nan -nan(ind) nan nan 
+324 0.570818 0.000000 0.131865 nan -nan(ind) nan nan 
+325 0.554654 0.000000 0.056218 nan -nan(ind) nan nan 
+326 0.538489 0.000000 0.056218 nan nan nan nan 
+327 0.554654 0.000000 0.041088 nan nan nan nan 
+328 0.570818 0.000000 0.056218 nan nan nan nan 
+329 0.554654 0.000000 0.071347 nan nan nan nan 
+330 0.199035 0.000000 0.025959 nan -nan(ind) nan nan 
+331 0.199035 0.000000 0.010829 nan nan nan nan 
+332 0.215199 0.000000 0.025959 nan nan nan nan 
+333 0.199035 0.000000 0.041088 nan -nan(ind) nan nan 
+334 3.900705 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+335 3.383441 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+336 3.900705 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+337 4.417969 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+338 3.900705 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+339 2.866177 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+340 2.866177 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+341 2.866177 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+342 3.383441 0.000000 2.915684 -nan(ind) nan -nan(ind) -nan(ind) 
+343 4.417969 0.000000 2.915684 -nan(ind) nan -nan(ind) -nan(ind) 
+344 3.383441 0.000000 3.883969 -nan(ind) nan -nan(ind) -nan(ind) 
+345 3.900705 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+346 3.383441 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+347 4.417969 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+348 3.900705 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+349 3.642073 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+350 3.383441 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+351 3.642073 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+352 3.900705 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+353 3.642073 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+354 2.866177 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+355 2.348913 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+356 2.866177 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+357 3.124809 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+358 2.866177 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+359 3.124809 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+360 3.124809 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+361 3.642073 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+362 3.383441 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+363 3.900705 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+364 3.642073 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+365 3.512757 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+366 3.383441 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+367 3.512757 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+368 3.642073 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+369 3.512757 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+370 3.900705 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+371 3.383441 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+372 3.900705 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+373 4.417969 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+374 3.642073 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+375 3.383441 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+376 3.642073 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+377 3.900705 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+378 3.512757 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+379 3.383441 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+380 3.512757 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+381 3.642073 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+382 4.159337 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+383 4.159337 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+384 4.417969 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+385 4.159337 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+386 3.771389 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+387 3.771389 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+388 3.900705 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+389 3.771389 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+390 3.577415 0.000000 0.797561 -nan(ind) nan -nan(ind) -nan(ind) 
+391 3.512757 0.000000 0.797561 -nan(ind) nan -nan(ind) -nan(ind) 
+392 3.577415 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+393 3.642073 0.000000 0.797561 -nan(ind) nan -nan(ind) -nan(ind) 
+394 3.577415 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+395 3.771389 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+396 3.771389 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+397 3.900705 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+398 3.706731 0.000000 0.797561 -nan(ind) nan -nan(ind) -nan(ind) 
+399 3.706731 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+400 3.771389 0.000000 0.797561 -nan(ind) nan -nan(ind) -nan(ind) 
+401 3.706731 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+402 4.159337 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+403 4.417969 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+404 4.159337 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+405 4.030021 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+406 4.030021 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+407 4.159337 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+408 4.030021 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+409 4.030021 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+410 3.900705 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+411 4.159337 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+412 4.030021 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+413 3.965363 0.000000 0.918596 -nan(ind) nan -nan(ind) -nan(ind) 
+414 3.900705 0.000000 0.918596 -nan(ind) nan -nan(ind) -nan(ind) 
+415 3.965363 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+416 4.030021 0.000000 0.918596 -nan(ind) nan -nan(ind) -nan(ind) 
+417 3.965363 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+418 4.288653 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+419 4.288653 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+420 4.417969 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+421 4.288653 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+422 4.094679 0.000000 0.918596 -nan(ind) nan -nan(ind) -nan(ind) 
+423 4.094679 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+424 4.159337 0.000000 0.918596 -nan(ind) nan -nan(ind) -nan(ind) 
+425 4.094679 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+426 2.607545 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+427 2.348913 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+428 2.607545 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+429 2.607545 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+430 2.866177 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+431 2.866177 0.000000 -0.957455 -nan(ind) nan -nan(ind) -nan(ind) 
+432 2.607545 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+433 2.348913 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+434 2.607545 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+435 2.866177 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+436 2.736861 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+437 2.607545 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+438 2.736861 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+439 2.866177 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+440 2.736861 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+441 3.124809 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+442 3.124809 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+443 2.736861 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+444 2.607545 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+445 2.736861 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+446 2.866177 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+447 2.995493 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+448 2.995493 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+449 3.124809 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+450 2.995493 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+451 2.801519 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+452 2.736861 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+453 2.801519 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+454 2.866177 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+455 2.801519 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+456 3.124809 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+457 2.866177 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+458 3.124809 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+459 2.995493 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+460 2.866177 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+461 3.124809 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+462 2.995493 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+463 2.930835 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+464 2.866177 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+465 2.930835 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+466 2.995493 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+467 2.930835 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+468 3.254125 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+469 3.254125 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+470 3.254125 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+471 3.060151 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+472 3.060151 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+473 3.124809 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+474 3.060151 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+475 3.254125 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+476 3.254125 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+477 3.189467 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+478 3.189467 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+479 3.254125 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+480 3.189467 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+481 2.090281 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+482 1.831649 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+483 2.090281 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+484 2.090281 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+485 1.831649 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+486 1.831649 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+487 2.090281 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+488 1.831649 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+489 2.090281 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+490 2.219597 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+491 2.090281 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+492 2.219597 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+493 2.348913 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+494 2.219597 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+495 1.573017 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+496 1.573017 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+497 1.573017 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+498 1.960965 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+499 1.831649 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+500 1.960965 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+501 1.960965 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+502 2.219597 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+503 2.090281 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+504 2.348913 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+505 2.219597 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+506 2.154939 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+507 2.090281 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+508 2.154939 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+509 2.219597 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+510 2.154939 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+511 2.478229 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+512 2.478229 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+513 2.478229 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+514 2.284255 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+515 2.284255 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+516 2.348913 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+517 2.284255 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+518 2.478229 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+519 2.478229 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+520 2.413571 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+521 2.413571 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+522 2.478229 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+523 2.413571 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+524 2.542887 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+525 2.478229 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+526 2.542887 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+527 2.607545 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+528 2.542887 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+529 2.672203 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+530 2.672203 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+531 2.672203 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+532 1.573017 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+533 1.573017 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+534 1.831649 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+535 1.443701 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+536 1.314385 0.000000 0.131865 nan -nan(ind) nan nan 
+537 1.443701 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+538 1.573017 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+539 1.443701 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+540 1.573017 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+541 1.314385 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+542 1.573017 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+543 1.702333 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+544 1.573017 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+545 1.702333 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+546 1.702333 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+547 1.443701 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+548 1.314385 0.000000 0.373936 nan -nan(ind) nan nan 
+549 1.443701 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+550 1.702333 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+551 1.702333 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+552 1.831649 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+553 1.637675 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+554 1.573017 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+555 1.637675 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+556 1.702333 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+557 1.637675 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+558 1.766991 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+559 1.766991 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+560 1.831649 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+561 1.766991 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+562 1.960965 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+563 1.831649 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+564 1.960965 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+565 2.025623 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+566 1.960965 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+567 2.025623 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+568 2.025623 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+569 2.090281 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+570 2.090281 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+571 2.348913 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+572 2.219597 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+573 2.090281 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+574 2.219597 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+575 2.348913 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+576 2.154939 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+577 2.090281 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+578 2.154939 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+579 2.219597 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+580 2.122610 0.000000 0.404195 -nan(ind) nan -nan(ind) -nan(ind) 
+581 2.090281 0.000000 0.404195 -nan(ind) nan -nan(ind) -nan(ind) 
+582 2.122610 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+583 2.154939 0.000000 0.404195 -nan(ind) nan -nan(ind) -nan(ind) 
+584 2.122610 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+585 -0.754671 0.000000 2.915684 -nan(ind) nan -nan(ind) -nan(ind) 
+586 -1.789199 0.000000 2.915684 -nan(ind) nan -nan(ind) -nan(ind) 
+587 -0.754671 0.000000 3.883969 -nan(ind) nan -nan(ind) -nan(ind) 
+588 -2.823726 0.000000 2.915684 -nan(ind) nan -nan(ind) -nan(ind) 
+589 -3.858254 0.000000 2.915684 -nan(ind) nan -nan(ind) -nan(ind) 
+590 -2.823726 0.000000 3.883969 -nan(ind) nan -nan(ind) -nan(ind) 
+591 -0.237407 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+592 -0.754671 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+593 -0.237407 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+594 -1.271935 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+595 -1.789199 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+596 -1.271935 0.000000 1.947399 -nan(ind) nan -nan(ind) -nan(ind) 
+597 1.055753 0.000000 0.737043 nan -nan(ind) nan nan 
+598 1.055753 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+599 0.021225 0.000000 0.737043 nan -nan(ind) nan nan 
+600 -0.237407 0.000000 0.737043 nan -nan(ind) nan nan 
+601 0.021225 0.000000 0.979114 nan -nan(ind) nan nan 
+602 -0.496039 0.000000 0.737043 nan -nan(ind) nan nan 
+603 -0.754671 0.000000 0.737043 nan -nan(ind) nan nan 
+604 -0.496039 0.000000 0.979114 nan -nan(ind) nan nan 
+605 0.409173 0.000000 0.373936 nan -nan(ind) nan nan 
+606 0.279857 0.000000 0.373936 nan -nan(ind) nan nan 
+607 0.409173 0.000000 0.494972 nan -nan(ind) nan nan 
+608 1.185069 0.000000 0.131865 nan -nan(ind) nan nan 
+609 1.185069 0.000000 0.010829 nan -nan(ind) nan nan 
+610 1.185069 0.000000 0.252901 nan -nan(ind) nan nan 
+611 1.185069 0.000000 0.373936 nan -nan(ind) nan nan 
+612 1.055753 0.000000 0.373936 nan -nan(ind) nan nan 
+613 1.185069 0.000000 0.494972 nan -nan(ind) nan nan 
+614 0.926437 0.000000 0.373936 nan -nan(ind) nan nan 
+615 0.926437 0.000000 0.494972 nan -nan(ind) nan nan 
+616 0.732463 0.000000 0.192383 nan -nan(ind) nan nan 
+617 0.797121 0.000000 0.192383 nan -nan(ind) nan nan 
+618 0.732463 0.000000 0.252901 nan -nan(ind) nan nan 
+619 0.150541 0.000000 0.373936 nan -nan(ind) nan nan 
+620 0.021225 0.000000 0.373936 nan -nan(ind) nan nan 
+621 0.150541 0.000000 0.494972 nan -nan(ind) nan nan 
+622 -0.108091 0.000000 0.373936 nan -nan(ind) nan nan 
+623 -0.237407 0.000000 0.373936 nan -nan(ind) nan nan 
+624 -0.108091 0.000000 0.494972 nan -nan(ind) nan nan 
+625 0.473831 0.000000 0.192383 nan -nan(ind) nan nan 
+626 0.409173 0.000000 0.192383 nan -nan(ind) nan nan 
+627 0.473831 0.000000 0.252901 nan -nan(ind) nan nan 
+628 0.344515 0.000000 0.192383 nan -nan(ind) nan nan 
+629 0.279857 0.000000 0.192383 nan -nan(ind) nan nan 
+630 0.344515 0.000000 0.252901 nan -nan(ind) nan nan 
+631 0.506160 0.000000 -0.019430 nan nan nan nan 
+632 0.473831 0.000000 -0.019430 nan nan nan nan 
+633 0.506160 0.000000 -0.049688 nan nan nan nan 
+634 0.441502 0.000000 -0.019430 nan nan nan nan 
+635 0.409173 0.000000 -0.019430 nan nan nan nan 
+636 0.441502 0.000000 -0.049688 nan nan nan nan 
+637 0.635476 0.000000 0.101606 nan -nan(ind) nan nan 
+638 0.667805 0.000000 0.101606 nan -nan(ind) nan nan 
+639 0.635476 0.000000 0.131865 nan -nan(ind) nan nan 
+640 0.506160 0.000000 0.101606 nan nan nan nan 
+641 0.473831 0.000000 0.101606 nan nan nan nan 
+642 0.506160 0.000000 0.131865 nan nan nan nan 
+643 0.441502 0.000000 0.101606 nan nan nan nan 
+644 0.409173 0.000000 0.101606 nan nan nan nan 
+645 0.441502 0.000000 0.131865 nan nan nan nan 
+646 0.554654 0.000000 0.025959 nan nan nan nan 
+647 0.538489 0.000000 0.025959 nan nan nan nan 
+648 0.554654 0.000000 0.010829 nan nan nan nan 
+649 0.586983 0.000000 0.056218 nan nan nan nan 
+650 0.603147 0.000000 0.056218 nan -nan(ind) nan nan 
+651 0.586983 0.000000 0.071347 nan nan nan nan 
+652 0.619312 0.000000 0.025959 nan -nan(ind) nan nan 
+653 0.635476 0.000000 0.025959 nan -nan(ind) nan nan 
+654 0.619312 0.000000 0.041088 nan -nan(ind) nan nan 
+655 0.619312 0.000000 0.056218 nan -nan(ind) nan nan 
+656 0.635476 0.000000 0.056218 nan -nan(ind) nan nan 
+657 0.619312 0.000000 0.071347 nan -nan(ind) nan nan 
+658 0.215199 0.000000 0.192383 nan -nan(ind) nan nan 
+659 0.150541 0.000000 0.192383 nan -nan(ind) nan nan 
+660 0.215199 0.000000 0.252901 nan -nan(ind) nan nan 
+661 0.085883 0.000000 0.192383 nan -nan(ind) nan nan 
+662 0.021225 0.000000 0.192383 nan -nan(ind) nan nan 
+663 0.085883 0.000000 0.252901 nan -nan(ind) nan nan 
+664 0.118212 0.000000 -0.019430 nan -nan(ind) nan nan 
+665 0.118212 0.000000 -0.049688 nan -nan(ind) nan nan 
+666 0.053554 0.000000 0.041088 nan -nan(ind) nan nan 
+667 0.053554 0.000000 0.071347 nan nan nan nan 
+668 0.376844 0.000000 -0.019430 nan nan nan nan 
+669 0.376844 0.000000 -0.049688 nan nan nan nan 
+670 0.376844 0.000000 0.010829 nan nan nan nan 
+671 0.376844 0.000000 0.041088 nan nan nan nan 
+672 0.376844 0.000000 0.071347 nan -nan(ind) nan nan 
+673 0.376844 0.000000 0.101606 nan nan nan nan 
+674 0.344515 0.000000 0.101606 nan -nan(ind) nan nan 
+675 0.376844 0.000000 0.131865 nan -nan(ind) nan nan 
+676 0.312186 0.000000 0.101606 nan -nan(ind) nan nan 
+677 0.279857 0.000000 0.101606 nan -nan(ind) nan nan 
+678 0.312186 0.000000 0.131865 nan -nan(ind) nan nan 
+679 0.231364 0.000000 0.025959 nan nan nan nan 
+680 0.231364 0.000000 0.010829 nan nan nan nan 
+681 0.231364 0.000000 0.041088 nan nan nan nan 
+682 4.159337 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+683 4.159337 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+684 4.417969 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+685 2.607545 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+686 2.348913 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+687 2.607545 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+688 3.771389 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+689 3.642073 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+690 3.771389 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+691 4.030021 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+692 4.030021 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+693 4.159337 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+694 4.288653 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+695 4.288653 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+696 4.417969 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+697 4.288653 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+698 4.417969 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+699 4.288653 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+700 2.736861 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+701 2.607545 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+702 2.736861 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+703 2.478229 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+704 2.348913 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+705 2.478229 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+706 2.607545 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+707 2.607545 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+708 2.866177 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+709 2.478229 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+710 2.478229 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+711 2.607545 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+712 2.736861 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+713 2.736861 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+714 2.866177 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+715 2.801519 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+716 2.736861 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+717 2.801519 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+718 2.672203 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+719 2.607545 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+720 2.672203 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+721 2.995493 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+722 2.995493 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+723 3.124809 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+724 2.930835 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+725 2.930835 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+726 2.995493 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+727 3.060151 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+728 3.060151 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+729 3.124809 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+730 3.254125 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+731 3.254125 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+732 3.383441 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+733 3.189467 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+734 3.189467 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+735 3.254125 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+736 1.960965 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+737 1.960965 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+738 2.090281 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+739 1.831649 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+740 2.090281 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+741 2.219597 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+742 2.090281 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+743 2.219597 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+744 1.960965 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+745 1.831649 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+746 1.960965 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+747 2.284255 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+748 2.284255 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+749 2.348913 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+750 2.025623 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+751 1.960965 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+752 2.025623 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+753 2.413571 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+754 2.413571 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+755 2.478229 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+756 2.542887 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+757 2.542887 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+758 2.607545 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+759 2.413571 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+760 2.348913 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+761 2.413571 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+762 2.542887 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+763 2.478229 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+764 2.542887 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+765 2.413571 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+766 2.348913 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+767 2.413571 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+768 1.702333 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+769 1.573017 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+770 1.702333 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+771 1.573017 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+772 1.314385 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+773 1.573017 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+774 1.702333 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+775 1.573017 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+776 1.702333 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+777 1.185069 0.000000 -0.110206 nan -nan(ind) nan nan 
+778 1.185069 0.000000 -0.231242 nan -nan(ind) nan nan 
+779 1.314385 0.000000 -0.110206 nan -nan(ind) nan nan 
+780 0.554654 0.000000 -0.004300 nan nan nan nan 
+781 0.538489 0.000000 -0.004300 nan nan nan nan 
+782 0.554654 0.000000 -0.019430 nan nan nan nan 
+783 -0.043433 0.000000 0.192383 nan -nan(ind) nan nan 
+784 -0.108091 0.000000 0.192383 nan -nan(ind) nan nan 
+785 -0.043433 0.000000 0.252901 nan -nan(ind) nan nan 
+786 0.247528 0.000000 0.101606 nan -nan(ind) nan nan 
+787 0.215199 0.000000 0.101606 nan -nan(ind) nan nan 
+788 0.247528 0.000000 0.131865 nan -nan(ind) nan nan 
+789 0.182870 0.000000 0.101606 nan -nan(ind) nan nan 
+790 0.150541 0.000000 0.101606 nan -nan(ind) nan nan 
+791 0.182870 0.000000 0.131865 nan -nan(ind) nan nan 
+792 1.055753 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+793 0.797121 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+794 1.055753 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+795 3.512757 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+796 3.383441 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+797 3.512757 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+798 3.512757 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+799 3.512757 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+800 3.642073 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+801 3.124809 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+802 3.124809 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+803 3.383441 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+804 2.995493 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+805 2.995493 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+806 3.124809 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+807 3.254125 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+808 3.254125 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+809 3.383441 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+810 2.672203 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+811 2.672203 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+812 2.736861 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+813 3.254125 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+814 3.124809 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+815 3.254125 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+816 1.896307 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+817 1.896307 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+818 1.896307 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+819 1.896307 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+820 1.831649 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+821 1.896307 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+822 2.284255 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+823 2.219597 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+824 2.284255 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+825 2.284255 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+826 2.219597 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+827 2.284255 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+828 2.542887 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+829 2.542887 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+830 2.607545 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+831 1.443701 0.000000 -0.110206 -nan(ind) nan -nan(ind) -nan(ind) 
+832 1.443701 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+833 1.573017 0.000000 -0.110206 -nan(ind) nan -nan(ind) -nan(ind) 
+834 1.443701 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+835 1.314385 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+836 1.443701 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+837 1.443701 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+838 1.314385 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+839 1.443701 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+840 1.766991 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+841 1.702333 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+842 1.766991 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+843 1.637675 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+844 1.573017 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+845 1.637675 0.000000 0.494972 -nan(ind) nan -nan(ind) -nan(ind) 
+846 1.185069 0.000000 0.616007 nan -nan(ind) nan nan 
+847 1.055753 0.000000 0.616007 nan -nan(ind) nan nan 
+848 1.185069 0.000000 0.737043 nan -nan(ind) nan nan 
+849 1.185069 0.000000 0.858079 -nan(ind) nan -nan(ind) -nan(ind) 
+850 1.055753 0.000000 0.858079 nan -nan(ind) nan nan 
+851 1.185069 0.000000 0.979114 -nan(ind) nan -nan(ind) -nan(ind) 
+852 0.118212 0.000000 0.101606 nan -nan(ind) nan nan 
+853 0.085883 0.000000 0.101606 nan -nan(ind) nan nan 
+854 0.118212 0.000000 0.131865 nan -nan(ind) nan nan 
+855 0.053554 0.000000 0.101606 nan -nan(ind) nan nan 
+856 0.021225 0.000000 0.101606 nan -nan(ind) nan nan 
+857 0.053554 0.000000 0.131865 nan -nan(ind) nan nan 
+858 0.538489 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+859 0.279857 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+860 0.538489 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+861 3.642073 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+862 3.642073 0.000000 -0.473313 -nan(ind) nan -nan(ind) -nan(ind) 
+863 3.900705 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+864 3.512757 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+865 3.512757 0.000000 0.010829 -nan(ind) nan -nan(ind) -nan(ind) 
+866 3.642073 0.000000 0.131865 -nan(ind) nan -nan(ind) -nan(ind) 
+867 3.771389 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+868 3.771389 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+869 3.900705 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+870 2.672203 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+871 2.672203 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+872 2.736861 0.000000 0.313418 -nan(ind) nan -nan(ind) -nan(ind) 
+873 2.801519 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+874 2.801519 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+875 2.866177 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+876 2.995493 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+877 2.866177 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+878 2.995493 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+879 2.154939 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+880 2.090281 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+881 2.154939 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+882 2.154939 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+883 2.090281 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+884 2.154939 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+885 1.702333 0.000000 -0.110206 -nan(ind) nan -nan(ind) -nan(ind) 
+886 1.702333 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+887 1.831649 0.000000 -0.110206 -nan(ind) nan -nan(ind) -nan(ind) 
+888 2.025623 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+889 1.960965 0.000000 0.555490 -nan(ind) nan -nan(ind) -nan(ind) 
+890 2.025623 0.000000 0.616007 -nan(ind) nan -nan(ind) -nan(ind) 
+891 2.025623 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+892 1.960965 0.000000 0.676525 -nan(ind) nan -nan(ind) -nan(ind) 
+893 2.025623 0.000000 0.737043 -nan(ind) nan -nan(ind) -nan(ind) 
+894 1.960965 0.000000 -0.110206 -nan(ind) nan -nan(ind) -nan(ind) 
+895 1.960965 0.000000 -0.231242 -nan(ind) nan -nan(ind) -nan(ind) 
+896 2.090281 0.000000 -0.110206 -nan(ind) nan -nan(ind) -nan(ind) 
+897 0.021225 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+898 -0.237407 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+899 0.021225 0.000000 1.463257 -nan(ind) nan -nan(ind) -nan(ind) 
+900 0.926437 0.000000 0.616007 nan -nan(ind) nan nan 
+901 0.797121 0.000000 0.616007 nan -nan(ind) nan nan 
+902 0.926437 0.000000 0.737043 nan -nan(ind) nan nan 
+903 0.926437 0.000000 0.858079 nan -nan(ind) nan nan 
+904 0.797121 0.000000 0.858079 nan -nan(ind) nan nan 
+905 0.926437 0.000000 0.979114 nan -nan(ind) nan nan 
+906 4.030021 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+907 4.030021 0.000000 0.252901 -nan(ind) nan -nan(ind) -nan(ind) 
+908 4.159337 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+909 2.736861 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+910 2.607545 0.000000 1.100150 -nan(ind) nan -nan(ind) -nan(ind) 
+911 2.736861 0.000000 1.221185 -nan(ind) nan -nan(ind) -nan(ind) 
+912 2.930835 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+913 2.930835 0.000000 0.373936 -nan(ind) nan -nan(ind) -nan(ind) 
+914 2.995493 0.000000 0.434454 -nan(ind) nan -nan(ind) -nan(ind) 
+1 7 12 10 11 
+2 12 2 13 10 
+3 1 17 15 16 
+4 17 7 11 15 
+5 11 25 23 24 
+6 25 10 26 23 
+7 15 33 31 32 
+8 33 11 24 31 
+9 24 41 39 40 
+10 41 23 42 39 
+11 31 49 47 48 
+12 49 24 40 47 
+13 40 57 55 56 
+14 57 39 58 55 
+15 10 61 60 26 
+16 61 13 62 60 
+17 23 65 64 42 
+18 65 26 66 64 
+19 39 69 68 58 
+20 69 42 70 68 
+21 55 81 79 80 
+22 81 58 82 79 
+23 47 86 84 85 
+24 86 40 56 84 
+25 56 90 88 89 
+26 90 55 80 88 
+27 80 107 105 106 
+28 107 79 108 105 
+29 88 118 116 117 
+30 118 80 106 116 
+31 106 126 124 125 
+32 126 105 127 124 
+33 58 130 129 82 
+34 130 68 131 129 
+35 129 131 71 132 
+36 82 129 132 43 
+37 79 134 133 108 
+38 134 82 135 133 
+39 133 135 43 136 
+40 108 133 136 83 
+41 105 138 137 127 
+42 138 108 139 137 
+43 137 139 83 140 
+44 124 150 148 149 
+45 150 127 151 148 
+46 149 148 152 128 
+47 43 132 153 103 
+48 132 71 154 153 
+49 153 154 98 155 
+50 103 153 155 77 
+51 83 136 156 122 
+52 136 43 157 156 
+53 156 157 103 158 
+54 122 156 158 101 
+55 140 83 160 159 
+56 159 160 122 161 
+57 127 163 162 151 
+58 163 137 164 162 
+59 162 164 140 165 
+60 151 162 165 109 
+61 128 152 166 167 
+62 152 109 168 166 
+63 166 168 146 169 
+64 167 166 169 144 
+65 148 172 170 171 
+66 172 151 173 170 
+67 170 173 109 174 
+68 171 170 174 152 
+69 16 177 175 176 
+70 177 15 32 175 
+71 175 32 18 178 
+72 176 175 178 6 
+73 32 181 179 180 
+74 181 31 48 179 
+75 179 48 34 182 
+76 180 179 182 18 
+77 48 185 183 184 
+78 185 47 85 183 
+79 183 85 50 186 
+80 184 183 186 34 
+81 85 189 187 188 
+82 189 84 190 187 
+83 188 187 191 50 
+84 84 193 192 190 
+85 193 56 89 192 
+86 6 178 195 196 
+87 178 18 45 195 
+88 195 45 28 197 
+89 196 195 197 29 
+90 18 182 198 199 
+91 182 34 73 198 
+92 198 73 44 200 
+93 199 198 200 45 
+94 34 186 201 202 
+95 186 50 111 201 
+96 201 111 72 203 
+97 202 201 203 73 
+98 50 191 204 205 
+99 205 204 207 111 
+100 187 210 208 209 
+101 210 190 211 208 
+102 209 208 212 191 
+103 190 216 215 211 
+104 216 192 217 215 
+105 191 212 219 220 
+106 219 221 206 222 
+107 220 219 222 204 
+108 208 225 223 224 
+109 225 211 226 223 
+110 224 223 227 212 
+111 211 232 231 226 
+112 232 215 233 231 
+113 231 233 218 234 
+114 226 231 234 87 
+115 212 227 235 236 
+116 227 87 237 235 
+117 235 237 221 238 
+118 236 235 238 219 
+119 223 241 239 240 
+120 241 226 242 239 
+121 239 242 87 243 
+122 240 239 243 227 
+123 218 250 248 249 
+124 250 194 251 248 
+125 248 251 229 252 
+126 249 248 252 228 
+127 192 254 253 217 
+128 254 89 255 253 
+129 217 258 256 257 
+130 258 253 259 256 
+131 256 259 245 260 
+132 257 256 260 194 
+133 89 262 261 255 
+134 262 88 117 261 
+135 255 268 266 267 
+136 268 261 269 266 
+137 266 269 263 270 
+138 267 266 270 5 
+139 5 270 271 272 
+140 270 263 273 271 
+141 271 273 264 274 
+142 272 271 274 246 
+143 91 277 275 276 
+144 277 119 278 275 
+145 275 278 141 279 
+146 276 275 279 142 
+147 280 281 244 282 
+148 251 280 282 229 
+149 194 285 283 284 
+150 285 260 286 283 
+151 283 286 280 287 
+152 284 283 287 251 
+153 288 272 246 290 
+154 281 288 290 244 
+155 253 292 291 259 
+156 292 255 267 291 
+157 291 267 5 289 
+158 259 291 289 245 
+159 289 295 293 294 
+160 295 5 296 293 
+161 293 296 272 297 
+162 294 293 297 288 
+163 119 299 298 278 
+164 299 59 145 298 
+165 298 145 121 300 
+166 278 298 300 141 
+167 20 38 301 302 
+168 38 19 303 301 
+169 301 303 22 304 
+170 302 301 304 9 
+171 305 307 38 308 
+172 306 305 308 20 
+173 52 78 309 310 
+174 78 51 311 309 
+175 309 311 54 312 
+176 310 309 312 36 
+177 75 104 313 314 
+178 104 77 315 313 
+179 313 315 51 316 
+180 314 313 316 78 
+181 102 123 317 318 
+182 123 101 319 317 
+183 317 319 104 320 
+184 318 317 320 75 
+185 121 147 321 322 
+186 147 120 323 321 
+187 321 323 123 324 
+188 322 321 324 102 
+189 145 327 325 326 
+190 327 144 328 325 
+191 325 328 147 329 
+192 326 325 329 121 
+193 260 331 330 286 
+194 331 245 332 330 
+195 330 332 281 333 
+196 286 330 333 280 
+197 19 94 342 303 
+198 94 21 343 342 
+199 342 343 3 344 
+200 303 342 344 22 
+201 345 347 21 348 
+202 346 345 348 94 
+203 354 346 94 356 
+204 355 354 356 19 
+205 361 363 345 364 
+206 362 361 364 346 
+207 350 367 365 366 
+208 365 368 353 369 
+209 366 365 369 92 
+210 60 372 370 371 
+211 372 62 373 370 
+212 370 373 8 336 
+213 376 336 377 374 
+214 335 380 378 379 
+215 380 351 381 378 
+216 378 381 349 367 
+217 379 378 367 350 
+218 387 352 388 386 
+219 386 388 338 389 
+220 368 386 389 353 
+221 367 392 390 391 
+222 392 349 393 390 
+223 390 393 368 394 
+224 391 390 394 365 
+225 351 396 395 381 
+226 396 334 397 395 
+227 395 397 352 387 
+228 381 395 387 349 
+229 349 399 398 393 
+230 399 387 400 398 
+231 398 400 386 401 
+232 393 398 401 368 
+233 402 403 347 404 
+234 363 402 404 345 
+235 352 406 405 388 
+236 406 382 407 405 
+237 338 408 409 410 
+238 408 385 411 409 
+239 409 411 402 412 
+240 410 409 412 363 
+241 388 415 413 414 
+242 415 405 416 413 
+243 413 416 408 417 
+244 414 413 417 338 
+245 382 419 418 407 
+246 419 384 420 418 
+247 418 420 93 421 
+248 407 418 421 385 
+249 405 423 422 416 
+250 423 407 424 422 
+251 422 424 385 425 
+252 416 422 425 408 
+253 26 431 430 66 
+254 431 60 371 430 
+255 445 435 446 443 
+256 438 453 451 452 
+257 453 339 454 451 
+258 451 454 439 455 
+259 452 451 455 436 
+260 456 362 346 458 
+261 457 456 458 354 
+262 358 450 459 460 
+263 450 357 461 459 
+264 459 461 360 462 
+265 460 459 462 341 
+266 439 465 463 464 
+267 465 447 466 463 
+268 463 466 450 467 
+269 464 463 467 358 
+270 469 335 379 468 
+271 468 379 350 470 
+272 447 472 471 466 
+273 472 449 473 471 
+274 471 473 357 474 
+275 466 471 474 450 
+276 357 470 475 461 
+277 470 350 366 475 
+278 475 366 92 476 
+279 461 475 476 360 
+280 449 478 477 473 
+281 478 468 479 477 
+282 477 479 470 480 
+283 473 477 480 357 
+284 485 355 19 486 
+285 307 485 486 38 
+286 508 490 509 506 
+287 506 509 494 510 
+288 507 506 510 484 
+289 490 515 514 509 
+290 515 493 516 514 
+291 514 516 96 517 
+292 509 514 517 494 
+293 493 521 520 516 
+294 521 511 522 520 
+295 520 522 513 523 
+296 516 520 523 96 
+297 513 526 524 525 
+298 526 428 527 524 
+299 524 527 437 528 
+300 525 524 528 518 
+301 428 530 529 527 
+302 530 438 452 529 
+303 529 452 436 531 
+304 527 529 531 437 
+305 42 533 532 70 
+306 533 64 534 532 
+307 27 537 535 536 
+308 537 496 538 535 
+309 535 538 495 539 
+310 536 535 539 99 
+311 99 539 547 548 
+312 539 495 544 547 
+313 547 544 497 549 
+314 548 547 549 53 
+315 496 551 550 538 
+316 551 67 552 550 
+317 550 552 482 545 
+318 538 550 545 495 
+319 495 555 553 554 
+320 555 545 556 553 
+321 553 556 543 557 
+322 554 553 557 544 
+323 545 559 558 556 
+324 559 482 560 558 
+325 558 560 499 561 
+326 556 558 561 543 
+327 95 501 562 563 
+328 563 562 564 488 
+329 498 567 565 566 
+330 567 491 507 565 
+331 565 507 484 568 
+332 566 565 568 501 
+333 64 570 569 534 
+334 570 66 571 569 
+335 569 571 14 483 
+336 483 574 572 573 
+337 574 14 575 572 
+338 572 575 433 492 
+339 573 572 492 481 
+340 481 578 576 577 
+341 578 492 579 576 
+342 576 579 490 508 
+343 577 576 508 491 
+344 491 582 580 581 
+345 582 508 583 580 
+346 580 583 506 584 
+347 581 580 584 507 
+348 28 46 585 586 
+349 46 20 302 585 
+350 585 302 9 587 
+351 586 585 587 30 
+352 29 197 588 589 
+353 197 28 586 588 
+354 588 586 30 590 
+355 589 588 590 4 
+356 44 74 591 592 
+357 591 306 20 593 
+358 592 591 593 46 
+359 45 200 594 595 
+360 200 44 592 594 
+361 594 592 46 596 
+362 595 594 596 28 
+363 72 112 599 600 
+364 112 52 310 599 
+365 599 310 36 601 
+366 600 599 601 74 
+367 73 203 602 603 
+368 203 72 600 602 
+369 602 600 74 604 
+370 603 602 604 44 
+371 76 115 605 606 
+372 115 75 314 605 
+373 605 314 78 607 
+374 606 605 607 52 
+375 71 609 608 154 
+376 609 27 536 608 
+377 608 536 99 610 
+378 154 608 610 98 
+379 98 610 611 612 
+380 610 99 548 611 
+381 611 548 53 613 
+382 612 611 613 100 
+383 77 155 614 315 
+384 155 98 612 614 
+385 614 612 100 615 
+386 315 614 615 51 
+387 101 158 616 319 
+388 158 103 617 616 
+389 616 617 77 618 
+390 319 616 618 104 
+391 110 214 619 620 
+392 214 76 606 619 
+393 619 606 52 621 
+394 620 619 621 112 
+395 111 207 622 623 
+396 207 110 620 622 
+397 622 620 112 624 
+398 623 622 624 72 
+399 113 143 625 626 
+400 143 102 318 625 
+401 625 318 75 627 
+402 626 625 627 115 
+403 114 265 628 629 
+404 265 113 626 628 
+405 628 626 115 630 
+406 629 628 630 76 
+407 116 633 631 632 
+408 633 106 125 631 
+409 631 125 59 299 
+410 632 631 299 119 
+411 117 636 634 635 
+412 636 116 632 634 
+413 634 632 119 277 
+414 635 634 277 91 
+415 120 161 637 323 
+416 161 122 638 637 
+417 637 638 101 639 
+418 323 637 639 123 
+419 141 300 640 641 
+420 300 121 322 640 
+421 640 322 102 642 
+422 641 640 642 143 
+423 142 279 643 644 
+424 279 141 641 643 
+425 643 641 143 645 
+426 644 643 645 113 
+427 59 648 646 647 
+428 648 128 167 646 
+429 646 167 144 327 
+430 647 646 327 145 
+431 144 169 649 328 
+432 169 146 650 649 
+433 649 650 120 651 
+434 328 649 651 147 
+435 109 165 652 168 
+436 165 140 653 652 
+437 652 653 159 654 
+438 168 652 654 146 
+439 146 654 655 650 
+440 654 159 656 655 
+441 655 656 161 657 
+442 650 655 657 120 
+443 213 247 658 659 
+444 247 114 629 658 
+445 658 629 76 660 
+446 659 658 660 214 
+447 206 230 661 662 
+448 230 213 659 661 
+449 661 659 214 663 
+450 662 661 663 110 
+451 215 665 664 233 
+452 665 217 257 664 
+453 664 257 194 250 
+454 233 664 250 218 
+455 87 234 666 237 
+456 234 218 249 666 
+457 666 249 228 667 
+458 237 666 667 221 
+459 261 669 668 269 
+460 669 117 635 668 
+461 668 635 91 670 
+462 269 668 670 263 
+463 263 670 671 273 
+464 670 91 276 671 
+465 671 276 142 672 
+466 273 671 672 264 
+467 264 672 673 674 
+468 672 142 644 673 
+469 673 644 113 675 
+470 674 673 675 265 
+471 246 274 676 677 
+472 274 264 674 676 
+473 676 674 265 678 
+474 677 676 678 114 
+475 245 680 679 332 
+476 680 289 294 679 
+477 679 294 288 681 
+478 332 679 681 281 
+479 336 683 682 377 
+480 683 8 684 682 
+481 682 684 337 383 
+482 37 429 685 686 
+483 685 457 354 687 
+484 686 685 687 355 
+485 353 389 688 689 
+486 389 338 410 688 
+487 688 410 363 690 
+488 689 688 690 361 
+489 334 692 691 397 
+490 692 383 693 691 
+491 691 693 382 406 
+492 397 691 406 352 
+493 383 695 694 693 
+494 695 337 696 694 
+495 694 696 384 419 
+496 693 694 419 382 
+497 385 421 697 411 
+498 421 93 698 697 
+499 697 698 403 699 
+500 411 697 699 402 
+501 426 440 700 701 
+502 440 358 460 700 
+503 700 460 341 702 
+504 701 700 702 429 
+505 427 519 703 704 
+506 519 426 701 703 
+507 703 701 429 705 
+508 704 703 705 37 
+509 66 707 706 571 
+510 707 430 708 706 
+511 706 708 340 434 
+512 571 706 434 14 
+513 14 710 709 575 
+514 710 434 711 709 
+515 709 711 432 512 
+516 575 709 512 433 
+517 434 713 712 711 
+518 713 340 714 712 
+519 712 714 435 445 
+520 711 712 445 432 
+521 436 455 715 716 
+522 455 439 464 715 
+523 715 464 358 717 
+524 716 715 717 440 
+525 437 531 718 719 
+526 531 436 716 718 
+527 718 716 440 720 
+528 719 718 720 426 
+529 435 722 721 446 
+530 722 441 723 721 
+531 721 723 359 448 
+532 339 725 724 454 
+533 725 448 726 724 
+534 724 726 447 465 
+535 454 724 465 439 
+536 448 728 727 726 
+537 728 359 729 727 
+538 727 729 449 472 
+539 726 727 472 447 
+540 441 731 730 723 
+541 731 375 732 730 
+542 730 732 335 469 
+543 723 730 469 359 
+544 359 734 733 729 
+545 734 469 735 733 
+546 733 735 468 478 
+547 729 733 478 449 
+548 67 737 736 552 
+549 737 483 573 736 
+550 736 573 481 500 
+551 552 736 500 482 
+552 97 489 738 739 
+553 489 37 686 738 
+554 738 686 355 740 
+555 739 738 740 485 
+556 487 505 741 742 
+557 505 427 704 741 
+558 741 704 37 743 
+559 742 741 743 489 
+560 488 564 744 745 
+561 564 487 742 744 
+562 744 742 489 746 
+563 745 744 746 97 
+564 492 748 747 579 
+565 748 433 749 747 
+566 747 749 493 515 
+567 579 747 515 490 
+568 500 752 750 751 
+569 752 481 577 750 
+570 750 577 491 567 
+571 751 750 567 498 
+572 433 754 753 749 
+573 754 512 755 753 
+574 753 755 511 521 
+575 749 753 521 493 
+576 511 757 756 522 
+577 757 444 758 756 
+578 756 758 428 526 
+579 522 756 526 513 
+580 96 523 759 760 
+581 523 513 525 759 
+582 759 525 518 761 
+583 760 759 761 504 
+584 518 528 762 763 
+585 528 437 719 762 
+586 762 719 426 764 
+587 763 762 764 519 
+588 504 761 765 766 
+589 761 518 763 765 
+590 765 763 519 767 
+591 766 765 767 427 
+592 497 546 768 769 
+593 546 95 563 768 
+594 768 563 488 770 
+595 769 768 770 540 
+596 35 542 771 772 
+597 542 97 739 771 
+598 771 739 485 773 
+599 772 771 773 307 
+600 540 770 774 775 
+601 770 488 745 774 
+602 774 745 97 776 
+603 775 774 776 542 
+604 68 778 777 131 
+605 778 70 779 777 
+606 777 779 27 609 
+607 131 777 609 71 
+608 125 782 780 781 
+609 782 124 149 780 
+610 780 149 128 648 
+611 781 780 648 59 
+612 204 222 783 784 
+613 222 206 662 783 
+614 783 662 110 785 
+615 784 783 785 207 
+616 244 290 786 787 
+617 290 246 677 786 
+618 786 677 114 788 
+619 787 786 788 247 
+620 229 282 789 790 
+621 282 244 787 789 
+622 789 787 247 791 
+623 790 789 791 213 
+624 54 598 792 793 
+625 598 35 772 792 
+626 792 772 307 794 
+627 793 792 794 305 
+628 92 369 795 796 
+629 369 353 689 795 
+630 795 689 361 797 
+631 796 795 797 362 
+632 375 799 798 732 
+633 799 374 800 798 
+634 798 800 351 380 
+635 732 798 380 335 
+636 430 802 801 708 
+637 802 371 803 801 
+638 801 803 63 442 
+639 708 801 442 340 
+640 340 805 804 714 
+641 805 442 806 804 
+642 804 806 441 722 
+643 714 804 722 435 
+644 442 808 807 806 
+645 808 63 809 807 
+646 807 809 375 731 
+647 806 807 731 441 
+648 444 811 810 758 
+649 811 443 812 810 
+650 810 812 438 530 
+651 758 810 530 428 
+652 360 476 813 814 
+653 476 92 796 813 
+654 813 796 362 815 
+655 814 813 815 456 
+656 482 817 816 560 
+657 817 500 751 816 
+658 816 751 498 818 
+659 560 816 818 499 
+660 499 818 819 820 
+661 818 498 566 819 
+662 819 566 501 821 
+663 820 819 821 95 
+664 494 517 822 823 
+665 517 96 760 822 
+666 822 760 504 824 
+667 823 822 824 502 
+668 502 824 825 826 
+669 824 504 766 825 
+670 825 766 427 827 
+671 826 825 827 505 
+672 512 829 828 755 
+673 829 432 830 828 
+674 828 830 444 757 
+675 755 828 757 511 
+676 70 832 831 779 
+677 832 532 833 831 
+678 831 833 496 537 
+679 779 831 537 27 
+680 53 549 834 835 
+681 549 497 769 834 
+682 834 769 540 836 
+683 835 834 836 541 
+684 541 836 837 838 
+685 836 540 775 837 
+686 837 775 542 839 
+687 838 837 839 35 
+688 543 561 840 841 
+689 561 499 820 840 
+690 840 820 95 842 
+691 841 840 842 546 
+692 544 557 843 844 
+693 557 543 841 843 
+694 843 841 546 845 
+695 844 843 845 497 
+696 100 613 846 847 
+697 613 53 835 846 
+698 846 835 541 848 
+699 847 846 848 597 
+700 597 848 849 850 
+701 848 541 838 849 
+702 849 838 35 851 
+703 850 849 851 598 
+704 228 252 852 853 
+705 252 229 790 852 
+706 852 790 213 854 
+707 853 852 854 230 
+708 221 667 855 856 
+709 667 228 853 855 
+710 855 853 230 857 
+711 856 855 857 206 
+712 36 312 858 859 
+713 312 54 793 858 
+714 858 793 305 860 
+715 859 858 860 306 
+716 371 862 861 803 
+717 862 370 863 861 
+718 861 863 336 376 
+719 803 861 376 63 
+720 63 865 864 809 
+721 865 376 866 864 
+722 864 866 374 799 
+723 809 864 799 375 
+724 374 868 867 800 
+725 868 377 869 867 
+726 867 869 334 396 
+727 800 867 396 351 
+728 432 871 870 830 
+729 871 445 872 870 
+730 870 872 443 811 
+731 830 870 811 444 
+732 443 874 873 812 
+733 874 446 875 873 
+734 873 875 339 453 
+735 812 873 453 438 
+736 341 462 876 877 
+737 462 360 814 876 
+738 876 814 456 878 
+739 877 876 878 457 
+740 484 510 879 880 
+741 510 494 823 879 
+742 879 823 502 881 
+743 880 879 881 503 
+744 503 881 882 883 
+745 881 502 826 882 
+746 882 826 505 884 
+747 883 882 884 487 
+748 532 886 885 833 
+749 886 534 887 885 
+750 885 887 67 551 
+751 833 885 551 496 
+752 501 568 888 889 
+753 568 484 880 888 
+754 888 880 503 890 
+755 889 888 890 562 
+756 562 890 891 892 
+757 890 503 883 891 
+758 891 883 487 893 
+759 892 891 893 564 
+760 534 895 894 887 
+761 895 569 896 894 
+762 894 896 483 737 
+763 887 894 737 67 
+764 74 601 897 898 
+765 601 36 859 897 
+766 897 859 306 899 
+767 898 897 899 591 
+768 51 615 900 901 
+769 615 100 847 900 
+770 900 847 597 902 
+771 901 900 902 311 
+772 311 902 903 904 
+773 902 597 850 903 
+774 903 850 598 905 
+775 904 903 905 54 
+776 377 907 906 869 
+777 907 682 908 906 
+778 906 908 383 692 
+779 869 906 692 334 
+780 429 702 909 910 
+781 702 341 877 909 
+782 909 877 457 911 
+783 910 909 911 685 
+784 446 913 912 875 
+785 913 721 914 912 
+786 912 914 448 725 
+787 875 912 725 339 

@@ -1,0 +1,142 @@
+
+ ##################
+
+ MACH_o:	             0.000000 
+ ALPHA_o:	         -5.000000 
+ BETA_o:              0.000000 
+ U_o:	              100.000000 
+
+ CLo:                -nan(ind) 
+ CDo:                      nan 
+ CYo:                -nan(ind) 
+ Clo:                      nan 
+ Cmo:                      nan 
+ Cno:                      nan 
+
+ CL_alpha:           -nan(ind) 
+ CL_beta:            -nan(ind) 
+ CL_mach:            -nan(ind) 
+ CL_p:               -nan(ind) 
+ CL_q:               -nan(ind) 
+ CL_r:               -nan(ind) 
+ CL_u:               -nan(ind) 
+ CL_alpha_2:          0.000000 
+ CL_alpha_dot:        0.000000 
+ CD_alpha:                 nan 
+ CD_beta:                  nan 
+ CD_mach:                  nan 
+ CD_p:                     nan 
+ CD_q:                     nan 
+ CD_r:                     nan 
+ CD_u:                     nan 
+ CD_alpha_2:          0.000000 
+ CD_alpha_dot:        0.000000 
+ CY_alpha:           -nan(ind) 
+ CY_beta:            -nan(ind) 
+ CY_mach:            -nan(ind) 
+ CY_p:               -nan(ind) 
+ CY_q:               -nan(ind) 
+ CY_r:               -nan(ind) 
+ CY_u:               -nan(ind) 
+ CY_alpha_2:          0.000000 
+ CY_alpha_dot:        0.000000 
+ Cl_alpha:                 nan 
+ Cl_beta:                  nan 
+ Cl_mach:                  nan 
+ Cl_p:                     nan 
+ Cl_q:                     nan 
+ Cl_r:                     nan 
+ Cl_u:                     nan 
+ Cl_alpha_2:          0.000000 
+ Cl_alpha_dot:        0.000000 
+ Cm_alpha:                 nan 
+ Cm_beta:                  nan 
+ Cm_mach:                  nan 
+ Cm_p:                     nan 
+ Cm_q:                     nan 
+ Cm_r:                     nan 
+ Cm_u:                     nan 
+ Cm_alpha_2:          0.000000 
+ Cm_alpha_dot:        0.000000 
+ Cn_alpha:                 nan 
+ Cn_beta:                  nan 
+ Cn_mach:                  nan 
+ Cn_p:                     nan 
+ Cn_q:                     nan 
+ Cn_r:                     nan 
+ Cn_u:                     nan 
+ Cn_alpha_2:          0.000000 
+ Cn_alpha_dot:        0.000000 
+
+
+
+ ##################
+
+ MACH_o:	             0.000000 
+ ALPHA_o:	         15.000000 
+ BETA_o:              0.000000 
+ U_o:	              100.000000 
+
+ CLo:                -nan(ind) 
+ CDo:                      nan 
+ CYo:                -nan(ind) 
+ Clo:                      nan 
+ Cmo:                      nan 
+ Cno:                      nan 
+
+ CL_alpha:           -nan(ind) 
+ CL_beta:            -nan(ind) 
+ CL_mach:            -nan(ind) 
+ CL_p:               -nan(ind) 
+ CL_q:               -nan(ind) 
+ CL_r:               -nan(ind) 
+ CL_u:               -nan(ind) 
+ CL_alpha_2:          0.000000 
+ CL_alpha_dot:        0.000000 
+ CD_alpha:                 nan 
+ CD_beta:                  nan 
+ CD_mach:                  nan 
+ CD_p:                     nan 
+ CD_q:                     nan 
+ CD_r:                     nan 
+ CD_u:                     nan 
+ CD_alpha_2:          0.000000 
+ CD_alpha_dot:        0.000000 
+ CY_alpha:           -nan(ind) 
+ CY_beta:            -nan(ind) 
+ CY_mach:            -nan(ind) 
+ CY_p:               -nan(ind) 
+ CY_q:               -nan(ind) 
+ CY_r:               -nan(ind) 
+ CY_u:               -nan(ind) 
+ CY_alpha_2:          0.000000 
+ CY_alpha_dot:        0.000000 
+ Cl_alpha:                 nan 
+ Cl_beta:                  nan 
+ Cl_mach:                  nan 
+ Cl_p:                     nan 
+ Cl_q:                     nan 
+ Cl_r:                     nan 
+ Cl_u:                     nan 
+ Cl_alpha_2:          0.000000 
+ Cl_alpha_dot:        0.000000 
+ Cm_alpha:                 nan 
+ Cm_beta:                  nan 
+ Cm_mach:                  nan 
+ Cm_p:                     nan 
+ Cm_q:                     nan 
+ Cm_r:                     nan 
+ Cm_u:                     nan 
+ Cm_alpha_2:          0.000000 
+ Cm_alpha_dot:        0.000000 
+ Cn_alpha:                 nan 
+ Cn_beta:                  nan 
+ Cn_mach:                  nan 
+ Cn_p:                     nan 
+ Cn_q:                     nan 
+ Cn_r:                     nan 
+ Cn_u:                     nan 
+ Cn_alpha_2:          0.000000 
+ Cn_alpha_dot:        0.000000 
+
+

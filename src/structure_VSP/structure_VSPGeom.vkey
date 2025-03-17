@@ -1,0 +1,16 @@
+# VSPGEOM Tag Key File
+C:/Users/valer/OneDrive - IPSA/Annexe/Helips/2025-2026/OpenVSP/Drone_v4/structure_VSPGeom.vspgeom
+11
+
+# tag#,geom#,surf#,gname,gid,ssname1,ssname2,...,ssid1,ssid2,...
+1,0,0,FuselageGeom_S,ZQCTGKKFUH
+2,1,0,Wings_S,ULYNTRKAWM
+3,1,1,Wings_S,ULYNTRKAWM
+4,4,0,HStab_S,JMOZLNIWWB
+5,4,1,HStab_S,JMOZLNIWWB
+6,3,0,VStab_S,QCFQCSJQPA
+7,2,0,MeshGeom_S,QWTSOOCBCQ
+8,2,0,MeshGeom_S,QWTSOOCBCQ
+9,2,0,MeshGeom_S,QWTSOOCBCQ
+10,2,1,MeshGeom_S,QWTSOOCBCQ
+11,2,0,MeshGeom_S,QWTSOOCBCQ

@@ -1,0 +1,378 @@
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 1 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -4.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 2 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  -4.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003482472   0.000000000000  -0.000000243518              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  -4.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003482472   0.000000000000  -0.000000243518              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  -4.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003482472   0.000000000000  -0.000000243518              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   1.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 3 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  -5.000000000000   1.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477162  -0.000000060926  -0.000000304212              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  -5.000000000000   1.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477162  -0.000000060926  -0.000000304212              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  -5.000000000000   1.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477162  -0.000000060926  -0.000000304212              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              1.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 4 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              1.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 5 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              1.0000000 rad/Tunit           
+
+
+
+Solver Case: 6 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.1000000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 7 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.100000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.100000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.100000000000  -5.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003477692   0.000000000000  -0.000000304259              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 8 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   16.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 9 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  16.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003355742   0.000000000000   0.000000962243              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  16.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003355742   0.000000000000   0.000000962243              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  16.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003355742   0.000000000000   0.000000962243              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   1.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 10 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  15.000000000000   1.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003371511  -0.000000060926   0.000000903394              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  15.000000000000   1.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003371511  -0.000000060926   0.000000903394              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  15.000000000000   1.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003371511  -0.000000060926   0.000000903394              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              1.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 11 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              1.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 12 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              1.0000000 rad/Tunit           
+
+
+
+Solver Case: 13 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.001000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.1000000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Solver Case: 14 
+
+      Iter             Mach             AoA              Beta              CLo             CLi            CLtot              CDo              CDi             CDtot              CDt            CDtot_t           CSo              CSi            CStot               L/D              E               CFxo             CFyo             CFzo             CFxi             CFyi             CFzi             CFxtot           CFytot           CFztot           CMxo             CMyo             CMzo             CMxi             CMyi             CMzi             CMxtot           CMytot           CMztot          T/QS 
+               1   0.100000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               2   0.100000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+               3   0.100000000000  15.000000000000   0.000000000000   0.000000000000        -nan(ind)        -nan(ind)   0.000003490976              nan              nan        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)        -nan(ind)   0.000000000000        -nan(ind)   0.000003372024   0.000000000000   0.000000903531              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)        -nan(ind)   0.000000000000   0.000000000000   0.000000000000        -nan(ind)              nan        -nan(ind)        -nan(ind)              nan        -nan(ind)   0.000000000000 
+

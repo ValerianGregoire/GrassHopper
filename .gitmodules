@@ -1,0 +1,3 @@
+[submodule "src/airfoil_helper"]
+	path = src/design_toolbox
+	url = https://github.com/ValerianGregoire/airplane_design.git

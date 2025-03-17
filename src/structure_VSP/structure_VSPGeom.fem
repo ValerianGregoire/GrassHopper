@@ -1,0 +1,448 @@
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -4.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   1.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              1.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              1.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              1.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.1000000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   16.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   1.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              1.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              1.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0010000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              1.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.1000000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+
+
+Total Forces and Moments 
+
+
+Total CL:  -nan(ind) 
+Total CD:  nan 
+Total CS:  -nan(ind) 
+Total CFx: nan 
+Total CFy: -nan(ind) 
+Total CFz: -nan(ind) 
+Total CMx: -nan(ind) 
+Total CMy: nan 
+Total CMz: -nan(ind) 

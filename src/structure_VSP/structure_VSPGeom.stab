@@ -1,0 +1,114 @@
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0000000 no_unit             
+AoA_                   -5.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+#
+Case                   Delta    Units         CFx          CFy          CFz          CMx          CMy          CMz          CL           CD           CS           CMl          CMm          CMn
+#
+Base_Aero              +0.000 n/a                nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Alpha                  +1.000 deg                nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Beta                   +1.000 deg                nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Roll__Rate             +1.000 rad/Tunit          nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Pitch_Rate             +1.000 rad/Tunit          nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Yaw___Rate             +1.000 rad/Tunit          nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Mach                   +0.100 no_unit            nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+#
+#
+#             Base    Derivative:                                                                               
+#             Aero         wrt          wrt          wrt          wrt          wrt          wrt          wrt    
+Coef          Total        Alpha        Beta          p            q            r           Mach         U      
+#              -           per          per          per          per          per          per          per    
+#              -           rad          rad          rad          rad          rad          M            u      
+#
+CFx             nan          nan          nan          nan          nan          nan          nan          nan 
+CFy       -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CFz       -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CMx       -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CMy             nan          nan          nan          nan          nan          nan          nan          nan 
+CMz       -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CL        -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CD              nan          nan          nan          nan          nan          nan          nan          nan 
+CS        -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CMl             nan          nan          nan          nan          nan          nan          nan          nan 
+CMm             nan          nan          nan          nan          nan          nan          nan          nan 
+CMn             nan          nan          nan          nan          nan          nan          nan          nan 
+#
+#
+#
+# Result                 Value      Units             
+SM                            nan no_unit             
+X_np                          nan Lunit               
+#
+#
+#
+***************************************************************************************************************************************************************************************** 
+
+# Name                   Value      Units             
+Sref_                   0.0574560 Lunit^2             
+Cref_                   0.0760000 Lunit               
+Bref_                   0.7560000 Lunit               
+Xcg_                    0.2259890 Lunit               
+Ycg_                   -0.0000130 Lunit               
+Zcg_                    0.0036690 Lunit               
+Mach_                   0.0000000 no_unit             
+AoA_                   15.0000000 deg                 
+Beta_                   0.0000000 deg                 
+Rho_                    0.0023770 Munit/Lunit^3       
+Vinf_                 100.0000000 Lunit/Tunit         
+Roll__Rate              0.0000000 rad/Tunit           
+Pitch_Rate              0.0000000 rad/Tunit           
+Yaw___Rate              0.0000000 rad/Tunit           
+
+#
+Case                   Delta    Units         CFx          CFy          CFz          CMx          CMy          CMz          CL           CD           CS           CMl          CMm          CMn
+#
+Base_Aero              +0.000 n/a                nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Alpha                  +1.000 deg                nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Beta                   +1.000 deg                nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Roll__Rate             +1.000 rad/Tunit          nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Pitch_Rate             +1.000 rad/Tunit          nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Yaw___Rate             +1.000 rad/Tunit          nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+Mach                   +0.100 no_unit            nan    -nan(ind)    -nan(ind)    -nan(ind)          nan    -nan(ind)    -nan(ind)          nan    -nan(ind)          nan          nan          nan 
+#
+#
+#             Base    Derivative:                                                                               
+#             Aero         wrt          wrt          wrt          wrt          wrt          wrt          wrt    
+Coef          Total        Alpha        Beta          p            q            r           Mach         U      
+#              -           per          per          per          per          per          per          per    
+#              -           rad          rad          rad          rad          rad          M            u      
+#
+CFx             nan          nan          nan          nan          nan          nan          nan          nan 
+CFy       -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CFz       -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CMx       -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CMy             nan          nan          nan          nan          nan          nan          nan          nan 
+CMz       -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CL        -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CD              nan          nan          nan          nan          nan          nan          nan          nan 
+CS        -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind)    -nan(ind) 
+CMl             nan          nan          nan          nan          nan          nan          nan          nan 
+CMm             nan          nan          nan          nan          nan          nan          nan          nan 
+CMn             nan          nan          nan          nan          nan          nan          nan          nan 
+#
+#
+#
+# Result                 Value      Units             
+SM                            nan no_unit             
+X_np                          nan Lunit               
+#
+#
+#
